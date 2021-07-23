@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 13. Celebrate people, free them to do even more, make it about the cohort and invite everyone along.
 14. Disagree with Systems of Thought & Institutions of Power, not with people or individuals.
 15. Don’t Hire intelligent people and tell them what to do. Hire brilliant people to show you what you don’t know. 
-16. Understand the cultural differences, in how they want things communicated to them and how they want to communicate to you
-17. Ensure requirements, decisions, and primary meeting points are communicated in writing as well as verbal conversations
-18. Consider what management/project management is needed within the vendor instead of hoping to fully understand the needs and manage the resources yourself
-19. Consider what motivates them and ensure that they feel the same empowerment and responsibility as the onshore portion of the team
+16. Understand the cultural differences, in how they want things communicated to them and how they want to communicate to you.
+17. Ensure requirements, decisions, and primary meeting points are communicated in writing as well as verbal conversations.
+18. Consider what management/project management is needed within the vendor instead of hoping to fully understand the needs and manage the resources yourself.
+19. Consider what motivates them and ensure that they feel the same empowerment and responsibility as the onshore portion of the team.
 
-20. Small teams - Bezos style two pizzas 2
-21. Treat like your own team, they need to care 
+20. Small teams - Bezos style two pizzas 2.
+21. Treat like your own team, they need to care. 
 22. Make sure they know they can challenge what is being done and challenge when short cuts are taken 
-(doesn’t mean you always side with them, but they need to help keep you out of ditches)
-23. Don’t underestimate relationship management
-24. Invest in a champion there, a bit of an overhead position but some who knows the domain, communicates well and has your trust
-25. Measure as much as possible what makes sense to measure, use self-analysis & quality improvements for everything else
+(doesn’t mean you always side with them, but they need to help keep you out of ditches).
+23. Don’t underestimate relationship management.
+24. Invest in a champion there, a bit of an overhead position but someone who knows the domain, communicates well and has your trust.
+25. Measure as much as possible what makes sense to measure, use self-analysis & quality improvements for everything else.
